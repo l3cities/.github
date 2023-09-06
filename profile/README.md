@@ -1,12 +1,7 @@
-## Hi there 👋
+# L3Cities 
 
-<!--
+### Innovation for Urban Transformation
+L3 brings together metrics, data analytics, real-time simulation, and tangible interfaces to help cities and enterprises create more sustainable, equitable, and entrepreneurial communities. 
 
-**Here are some ideas to get you started:**
+https://www.l3cities.com/
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
